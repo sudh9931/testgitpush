@@ -12,3 +12,5 @@ fasf
 asdf
 assert fasd
 fa
+asfasf
+assert async fa
